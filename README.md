@@ -1,11 +1,11 @@
 # NodeJS-Tareas-Hacer
 
-##Primero hay que instalar paquetes
+## Primero hay que instalar paquetes
 
 
 
 `npm install`
 
-##Y para ejecutar la aplicacion:**
+## Y para ejecutar la aplicacion:**
 
 `node app`
